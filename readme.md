@@ -1,4 +1,4 @@
-##Número Secreto
+#Número Secreto
 Este é um jogo simples no qual você precisa adivinhar o número secreto escolhido aleatoriamente pelo sistema. O jogo seguirá as seguintes regras:
 
 <h1>O número secreto está entre 1 e 1000.</h1>
