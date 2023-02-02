@@ -15,10 +15,11 @@ recognition.addEventListener('result', onSpeak)
 function onSpeak(e){
     chute = e.results[0][0].transcript
     exibeChute(chute)
+    verificarValor(chute)
 }
 
 function exibeChute(chute){
     elementoChute.innerHTML = `<div>Você disse:</div>
     <span class="box">${chute}</span>`
-    console.log(chute)
 }
+recognition.addEventListener('end', () => recognition.start())

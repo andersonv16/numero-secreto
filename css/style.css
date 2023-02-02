@@ -42,3 +42,27 @@ h3{
     padding: 10px;
     margin: 20px;
 }
+a{
+    text-decoration: none;
+    font-size: 2em;
+    color: var(--primary-color);
+}
+a:hover{
+    
+    color: violet;
+}
+
+@media screen and (max-width: 720px){
+    
+    body{
+        width: 90%;
+        margin-left: 10px;
+    }
+    h1{
+        font-size: 3em;
+    }
+    h3{
+        font-size: 2em;
+     
+    }
+}
