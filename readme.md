@@ -14,8 +14,8 @@ Quando você adivinhar o número secreto, o jogo terminará e você verá uma me
 O jogo possui um design responsivo, o que significa que se adaptará a diferentes tamanhos de tela.
 
 <h2>Tecnologias usadas</h2>
-HTML
-CSS
-JavaScript
-Font Awesome
-Web Speech API
+<p>HTML</p>
+<p>CSS</p>
+<p>JavaScript</p>
+<p>Font Awesome</p>
+<p>Web Speech API</p>
